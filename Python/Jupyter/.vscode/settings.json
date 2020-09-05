@@ -1,0 +1,11 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/mac/.local/share/virtualenvs/Jupyter-wnPMDbC5/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ],
+    "python.dataScience.jupyterServerURI": "local"
+}
