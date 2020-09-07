@@ -7,5 +7,5 @@
     "python.linting.flake8Args": [
         "--max-line-length=88"
     ],
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=3251f9fa12a7bd37de92fc5c9ec8a4d1a6b12bfe2a458d8d"
 }
