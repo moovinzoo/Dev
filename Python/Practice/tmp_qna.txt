@@ -1,0 +1,25 @@
+email 대신 닉네임 입력하라는거죠?
+From 김종호 to Everyone: (18:37)
+1~1000개까지 남자 데이터고 1001~2000개까지 여자 데이터인 건 하드코딩? 해도 되나요?
+From 김알찬 to Everyone: (18:38)
+* gender field (M/F)를 사용해야합니다.
+From 김현수 to Everyone: (18:38)
+혹시 records 이외의 다른 global variable을 선언해도 될까요?
+From 김알찬 to Everyone: (18:38)
+* parseAndSave가 불리면 records의 내용은 채워져야 합니다.
+From 김현수 to Everyone: (18:39)
+넵! 감사합니다
+From 김재우 to Everyone: (18:39)
+각 year별로 (gender당) 1000개씩 있다는 것은 가정해도 되나요? 1000개가 아닐 수도 있나요?
+From 이해동 to Everyone: (18:39)
+sign up value 로 들어오는 내용에 앞 뒤로 white space가 들어올 수 있나요?
+From 최우영 to Everyone: (18:39)
+M F 가 문자열이 아니라 다른 자료형인 건가요..?
+From 김재우 to Everyone: (18:40)
+year마다 Male과 Female의 수가 같다는 것은 가정해도 되나요?
+From 김알찬 to Everyone: (18:40)
+*  ‘M’, ‘F’ 두 가지 값중 하나인 문자열입니다* 네, 남녀끼리 대응되는 한 쌍이 있다고 가정 하셔도 됩니다
+From 김동민 to Everyone: (18:40)
+column name rank_delta가 아니라 rankChange로 처리해야만 하나요?
+From 구윤모 to Everyone: (18:40)
+* 네 male과 female 수는 항상 동일합니다
