@@ -5,7 +5,7 @@
     "python.pythonPath": "/Users/mac/.local/share/virtualenvs/Jupyter-wnPMDbC5/bin/python",
     "python.formatting.provider": "black",
     "python.linting.flake8Args": [
-        "--max-line-length=88"
+        "--max-line-length=120"
     ],
-    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=dc5e97f426b492b1ce49eba4f34671d544556c2f80ea2ff3"
+    "python.dataScience.jupyterServerURI": "local"
 }

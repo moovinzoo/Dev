@@ -8,13 +8,13 @@ flake8 = "*"
 black = "*"
 
 [packages]
-django = "*"
 ipykernel = "*"
 jupyter = "*"
-requests = "*"
+psycopg2-binary = "*"
+cx-oracle = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
 
 [pipenv]
 allow_prereleases = true
